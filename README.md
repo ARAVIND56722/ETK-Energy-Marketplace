@@ -12,7 +12,6 @@
 - [Tech Stack](#tech-stack)
 - [Features](#features)
 - [Smart Contracts](#smart-contracts)
-- [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Environment Setup](#environment-setup)
 - [How It Works](#how-it-works)
@@ -131,34 +130,17 @@ function cancelListing(uint256 id)
 function getListings(uint256 fromId, uint256 toId) view returns (tuple[])
 ```
 
----
 
-## 📁 Project Structure
+🚀 Getting Started
 
-```
-├── app/
-│   └── dashboard/
-│       └── page.js          # Main dashboard (this file)
-├── lib/
-│   ├── iotSim.js            # IoT smart meter simulation
-│   ├── meterHistory.js      # Per-wallet meter history storage
-│   └── aiForecast.js        # Holt's forecasting + price suggestion
-├── public/
-└── README.md
-```
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
+ Prerequisites
 
 - [Node.js](https://nodejs.org/) v18+
 - [MetaMask](https://metamask.io/) browser extension
 - Sepolia testnet ETH (get from [Sepolia Faucet](https://sepoliafaucet.com/))
 - ETK tokens (from the token contract or a faucet if available)
 
-### Installation
+ Installation
 
 ```bash
 # Clone the repository
@@ -177,8 +159,7 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
-
-## ⚙️ Environment Setup
+⚙️ Environment Setup
 
 No `.env` file is required for basic usage — contract addresses are hardcoded for Sepolia testnet.
 
@@ -191,7 +172,7 @@ const MARKETPLACE_ADDRESS  = "your_marketplace_address";
 
 ---
 
-## 💡 How It Works
+ 💡 How It Works
 
 ```
 User connects MetaMask
@@ -220,9 +201,8 @@ listing    listings
 
 ---
 
-## 📸 Screenshots
+ 📸 Screenshots
 
-> *(Add screenshots of your dashboard, marketplace, and carbon panel here)*
 
 ---
 
@@ -238,7 +218,7 @@ listing    listings
 
 ---
 
-## 🤝 Contributing
+ 🤝 Contributing
 
 Contributions are welcome! Here's how:
 
@@ -254,7 +234,7 @@ Please open an issue first to discuss major changes.
 
 ---
 
-## 📄 License
+ 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
