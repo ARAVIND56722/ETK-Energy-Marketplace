@@ -5,22 +5,6 @@
 
 ---
 
- 📌 Table of Contents
-
-- [About the Project](#about-the-project)
-- [What's New in v2.0](#whats-new-in-v20)
-- [Tech Stack](#tech-stack)
-- [Features](#features)
-- [Smart Contracts](#smart-contracts)
-- [Getting Started](#getting-started)
-- [Environment Setup](#environment-setup)
-- [How It Works](#how-it-works)
-- [Screenshots](#screenshots)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-
----
 
 ## 📖 About the Project
 
