@@ -203,6 +203,34 @@ listing    listings
 
  📸 Screenshots
 
+##  Wallet Connection
+
+<img width="843" height="431" alt="image" src="https://github.com/user-attachments/assets/44bbcdb9-9164-4849-809b-cad8a87eb08f" />
+
+##  SmartMeter Simulation
+
+<img width="1532" height="696" alt="image" src="https://github.com/user-attachments/assets/93737f07-551e-4233-beab-60c6cfcdec66" />
+
+##  AI Prediction & Carbon Impact Dashboard
+
+<img width="1447" height="901" alt="image" src="https://github.com/user-attachments/assets/7c8d4e12-fa46-4296-90f9-592c5083aa51" />
+
+##  Energy Marketplace
+
+<img width="1452" height="606" alt="image" src="https://github.com/user-attachments/assets/cddac12d-7f44-44c1-b091-48bf40495782" />
+
+##  Transaction History
+
+<img width="1867" height="338" alt="image" src="https://github.com/user-attachments/assets/825040ee-4032-44e6-81eb-ebbb8df5810f" />
+
+##  MetaMask Wallet
+
+<img width="1097" height="877" alt="image" src="https://github.com/user-attachments/assets/e0c9b4f3-a7e2-42c9-891d-150dcae947a3" />
+
+##  Sepolia EtherScan (Transactions)
+
+<img width="1700" height="777" alt="image" src="https://github.com/user-attachments/assets/1419a4b0-fc11-4ca0-85a7-afa9b46ae919" />
+
 
 ---
 
@@ -234,11 +262,6 @@ Please open an issue first to discuss major changes.
 
 ---
 
- 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgements
 
