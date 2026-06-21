@@ -1,6 +1,6 @@
 ⚡ ETK Grid v2.0 – AI-Powered Decentralized Renewable Energy Marketplace
 
-**This is an improved and extended version of my original [ETK Energy Dashboard](https://github.com/ARAVIND56722/ETK-Energy-Dashboard-) project.**  
+This is an improved and extended version of my original [ETK Energy Dashboard](https://github.com/ARAVIND56722/ETK-Energy-Dashboard-) project. 
  The original was a basic proof-of-concept for peer-to-peer energy trading. This version adds AI-powered forecasting, IoT smart meter simulation, carbon impact analytics, and a fully redesigned dashboard UI.
  
 🚀 Project Overview
@@ -12,7 +12,7 @@ By combining Blockchain, Artificial Intelligence, and Renewable Energy technolog
 
  📖 About the Project
 
-**ETK Energy Marketplace** is a decentralized peer-to-peer energy trading platform built on the **Ethereum Sepolia Testnet**. It allows energy producers (e.g., solar panel owners) to list surplus electricity for sale, and consumers to purchase it — all settled on-chain using the **ETK ERC-20 token**.
+ETK Energy Marketplace is a decentralized peer-to-peer energy trading platform built on the **Ethereum Sepolia Testnet**. It allows energy producers (e.g., solar panel owners) to list surplus electricity for sale, and consumers to purchase it — all settled on-chain using the **ETK ERC-20 token**.
 
 Smart contracts automate energy trading without requiring centralized transaction intermediaries, ensuring transparency, security, and trust among participants. 
 
