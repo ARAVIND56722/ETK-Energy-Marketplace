@@ -1,22 +1,26 @@
- ⚡ ETK Energy Marketplace — v2.0
+⚡ ETK Grid v2.0 – AI-Powered Decentralized Renewable Energy Marketplace
 
-> **This is an improved and extended version of my original [ETK Energy Marketplace](https://github.com/YOUR_USERNAME/YOUR_ORIGINAL_REPO) project.**  
-> The original was a basic proof-of-concept for peer-to-peer energy trading. This version adds AI-powered forecasting, IoT smart meter simulation, carbon impact analytics, and a fully redesigned dashboard UI.
+**This is an improved and extended version of my original [ETK Energy Dashboard](https://github.com/ARAVIND56722/ETK-Energy-Dashboard-) project.**  
+ The original was a basic proof-of-concept for peer-to-peer energy trading. This version adds AI-powered forecasting, IoT smart meter simulation, carbon impact analytics, and a fully redesigned dashboard UI.
+ 
+🚀 Project Overview
 
----
+ETK Grid is a next-generation decentralized energy trading platform that enables households, businesses, and communities to securely trade renewable energy using blockchain technology. The platform leverages AI-powered energy prediction, renewable energy forecasting, smart contracts, carbon credit tracking, and tokenized energy transactions to create a transparent and intelligent energy marketplace.
 
+By combining Blockchain, Artificial Intelligence, and Renewable Energy technologies, ETK Grid empowers users to monetize surplus energy, optimize consumption, and contribute to a sustainable future.
+ 
 
-## 📖 About the Project
+ 📖 About the Project
 
 **ETK Energy Marketplace** is a decentralized peer-to-peer energy trading platform built on the **Ethereum Sepolia Testnet**. It allows energy producers (e.g., solar panel owners) to list surplus electricity for sale, and consumers to purchase it — all settled on-chain using the **ETK ERC-20 token**.
 
-No middlemen. No central server. Just smart contracts, wallets, and green energy.
+Smart contracts automate energy trading without requiring centralized transaction intermediaries, ensuring transparency, security, and trust among participants. 
 
 ---
 
 ## 🚀 What's New in v2.0
 
-Compared to the [original project](https://github.com/YOUR_USERNAME/YOUR_ORIGINAL_REPO), this version introduces:
+Compared to the [ETK Energy Dashboard](https://github.com/ARAVIND56722/ETK-Energy-Dashboard-), this version introduces:
 
 | Feature | v1.0 (Original) | v2.0 (This Repo) |
 |---|---|---|
@@ -61,11 +65,15 @@ Compared to the [original project](https://github.com/YOUR_USERNAME/YOUR_ORIGINA
 - Tracks real-time energy **generated**, **consumed**, **surplus**, and **deficit**
 - Meter history stored per wallet address for forecasting
 
-### 🤖 AI Energy Forecasting
-- Uses **Holt's double exponential smoothing** on meter history
-- Predicts energy surplus/demand for the **next 1 hour** and **next 24 hours**
-- Dynamically suggests an optimal **sell price** based on supply/demand ratio
-- Displays reasoning: "High predicted demand vs supply", etc.
+### 🤖 AI Forecasting Engine
+
+The forecasting engine analyzes historical smart meter readings and predicts future energy surplus and demand using Holt's Double Exponential Smoothing.
+
+Forecasts are used to:
+- Estimate next-hour energy availability
+- Predict demand fluctuations
+- Recommend optimal ETK selling prices
+- Improve marketplace efficiency
 
 ### 🛒 Energy Marketplace (On-Chain)
 - **Create listings** — list surplus kWh at a chosen ETK price per kWh
@@ -246,13 +254,26 @@ Please open an issue first to discuss major changes.
 
 ---
 
+👨‍💻 Author
+
+Aravindhan AK
+
+Software Developer | Blockchain Enthusiast | 
+
+GitHub:[https://github.com/ARAVIND56722]
+
+LinkedIn: [www.linkedin.com/in/aravind345]
+
+
+"Building the Future of Decentralized Renewable Energy Trading."
+
 
 ## 🙏 Acknowledgements
 
 - [ethers.js](https://docs.ethers.org/) — Ethereum library
 - [OpenZeppelin](https://openzeppelin.com/) — ERC-20 token standard reference
 - [Sepolia Testnet](https://sepolia.etherscan.io/) — Test network
-- Original project inspiration: [v1.0 repo](https://github.com/YOUR_USERNAME/YOUR_ORIGINAL_REPO)
+- Original project inspiration: [v1.0 repo](https://github.com/ARAVIND56722/ETK-Energy-Dashboard-)
 
 ---
 
